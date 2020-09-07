@@ -1,0 +1,25 @@
+{
+  "name": "wu3r-kahoot-flooder",
+  "version": "1.0.0",
+  "description": "A Kahoot Bot Flooder",
+  "main": "kahoot.js",
+  "scripts": {
+    "start": "node kahoot.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "delay": "^4.4.0",
+    "kahoot.js-updated": "^1.4.27",
+    "npm-git-install": "^0.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "engines":  {
+     "node": "12.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imtesting1337/kahoot-web"
+  },
+  "license": "MIT"
+  }
+
