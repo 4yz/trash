@@ -11,7 +11,8 @@
     "delay": "^4.4.0",
     "kahoot.js-updated": "^1.4.27",
     "npm-git-install": "^0.3.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "npm-git-install": "^0.3.0"
   },
   "engines":  {
      "node": "12.18.3"
